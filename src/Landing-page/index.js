@@ -1,5 +1,5 @@
 import React from 'react';
-import { Flex,Box,Image,Heading,Button ,ButtonGroup,Link,Text, } from "@chakra-ui/react";
+import { Flex,Box,Image,Heading ,ButtonGroup,Link,Text, } from "@chakra-ui/react";
 
 import logo from '../assets/logo/PlayGround.png';
 import boyImage from '../assets/images/boy.png';
@@ -8,7 +8,7 @@ import {ReactComponent as YellowEllipse}  from '../assets/vector/yellow-big.svg'
 import { ReactComponent as YellowsmallEllipse}  from '../assets/vector/yellow-small.svg';
 import { ReactComponent as Purple}  from '../assets/vector/purple.svg';
 import { ReactComponent as Pink}  from '../assets/vector/pink.svg';
-import { ReactComponent as Transparent}  from '../assets/vector/transparent.svg';
+// import { ReactComponent as Transparent}  from '../assets/vector/transparent.svg';
 
 
 
